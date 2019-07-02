@@ -19,10 +19,6 @@ Four of a kind: 4 cards with the same value. Ranked by the value of the 4 cards.
 Straight flush: 5 cards of the same suit with consecutive values. Ranked by the highest card in the hand.
 Clues
 
-None as yet.
-
-Suggested Test Cases
-
 Sample input:
 
 Black: 2H 3D 5S 9C KD  White: 2C 3H 4S 8C AH
